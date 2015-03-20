@@ -1,3 +1,6 @@
 # Ingore npm-related stuff
 /node_modules
 *.log
+
+# built files
+bundle.js

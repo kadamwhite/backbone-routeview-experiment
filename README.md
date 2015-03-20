@@ -13,3 +13,9 @@ In bullet form:
 - On any subsequent "route" event, that route view will self-destruct
   (because a second "route" event means we are leaving the route for which
   that RouteView instance applies)
+
+## Installation
+
+[Node.JS](http://nodejs.org) is required to run the application. Clone the repo, then (from the cloned directory) run `npm install`.
+
+Once installed, run `npm start` to build the script bundle and start a local server at [http://localhost:3000](http://127.0.0.1:3000).
