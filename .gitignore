@@ -1,0 +1,3 @@
+# Ingore npm-related stuff
+/node_modules
+*.log
